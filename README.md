@@ -4,5 +4,5 @@ Simulation.py runs the simulation using the supporting csv files and python file
 # Jupyter Notebook Files
 The Jupyter Notebook Files changed formatting wise after being zipped from Jupyter Notebook. Python files have been created with the proper code and formatting. The Python files that replace each Jupyter Notebook File have the same name, but with ".py" instead of "ipynb" as expected.
 
-#Data Sources
+# Data Sources
 'https://www.270towin.com/2020-polls-biden-trump/' was used to assign weights to each state during the simulation. 'http://www.electproject.org/2020g' was used to estimate voter turn out in each state. 'https://www.nbcnews.com/politics/2020-election?icid=election_nav' was used for the actual election results.
